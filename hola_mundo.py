@@ -1,6 +1,5 @@
 print("Ini")
 
-
 n = 1
 while n < 10:
     if n % 3 == 0:
