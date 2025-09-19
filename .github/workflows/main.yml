@@ -1,4 +1,4 @@
-name: Build
+name: Build_Main
 on:
   workflow_dispatch
 jobs:
