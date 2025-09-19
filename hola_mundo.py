@@ -1,3 +1,6 @@
+def add_one(number):
+    return number + 2
+
 print("Ini")
 
 n = 1
@@ -8,3 +11,6 @@ while n < 10:
     n = n + 1
 
 print("Fin")
+print("Entra Funcion")
+
+print (add_one(1))
