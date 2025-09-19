@@ -1,4 +1,3 @@
-
 print("Ini")
 
 n = 1
